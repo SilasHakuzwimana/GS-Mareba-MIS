@@ -1,0 +1,71 @@
+a{
+    text-decoration: none;
+}
+#admin_user_registration{
+    background-color: rgb(160, 164, 164);
+    color: white;
+    width: 230px;
+    height: 400px;
+    border: 2px black solid;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+#system_header{
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    height: 70px;
+    font-size: 20px;
+    margin-top: 3px;
+    padding-top: 3px;
+}
+h3{
+    position: relative;top: 10px;
+}
+.register_list1{
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+.register_list2{
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+.register_list3{
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+.register_list4{
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+.register_list5{
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+.register_list6{
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+.register_list7{
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}

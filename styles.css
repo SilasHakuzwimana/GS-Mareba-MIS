@@ -1,0 +1,92 @@
+#body_part{
+    position: fixed;
+}
+#listing_title{
+    background-color: whitesmoke;
+    color: green;
+    display: inline;
+    list-style: none;
+    position: relative;left: 60px;
+    font-size: 20px;
+}
+li{
+    display: inline;
+    flex-direction: row;
+}
+.home_list{
+    position: relative;left: 100px;top: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+.partners_list{
+    position: relative;left: 300px;top: 15px;
+    text-align: center;
+    text-decoration: none;   
+    font-size: 20px; 
+}
+.services_list{
+    position: relative;left: 500px;top: 15px;
+    text-align: center;
+    text-decoration: none; 
+    font-size: 20px; 
+}
+.login_list{
+    position: relative;left: 900px;top: 15px;
+    text-align: center;
+    text-decoration: none; 
+    color: black; 
+    font-size: 20px;
+}
+#division_tag{
+    text-align: justify;
+    background-color: whitesmoke;
+    color: #000;
+    height: 60px;
+    position: relative;top: 5px;
+}
+.home_list:hover{
+    background-color: cadetblue;
+    color: white;
+    width: 200px;
+    height: 100px;
+}
+.partners_list:hover{
+    background-color: cadetblue;
+    color: white;
+    width: 60px;
+    height: 40px;  
+}
+.services_list:hover{
+    background-color: cadetblue;
+    color: white;
+    width: 60px;
+    height: 40px;
+}
+.login_list:hover{
+    background-color: cadetblue;
+    color: white;
+    width: 60px;
+    height: 40px;
+}
+#library_footer{
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    position: relative;top: 340px;bottom: 2px;
+    height: 30px;
+}
+#library_footer_paragraph{
+    position: relative;top: 340px;
+    color: white;
+    text-align: center;
+}
+#heading{
+    background-color: slategray;
+    color: white;
+    font-size: 20px;
+    height: 200px;
+}
+#school_logo{
+    position: relative;left: 2px;top: 5px;
+}
